@@ -4,6 +4,7 @@ end
 
 def using_sort(array)
   sorted_array = array.sort
+  sorted_array
   
 end
 
